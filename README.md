@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @Sahanyaa
+- 👋 Hi, I’m Sahanyaa Welivitiya
 - 🌱 I’m currently learning Higher Diploma in Software Engineering at National Institute of Business Management
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me sahanyawelivitiya@gmail.com
   
 
