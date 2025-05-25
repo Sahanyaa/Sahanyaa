@@ -10,11 +10,11 @@ Welcome to my GitHub profile! I’m currently a **Higher Diploma in Software Eng
 - 📫 How to reach me : sahanyawelivitiya@gmail.com 
 
 ## 💼 **Skills & Tools**
-| **Category**            | **Skills**                            |
-|-------------------------|---------------------------------------|
-| **Programming**         | Java, HTML, CSS, JavaScript           |
-| **Design Tools**        | Figma, Adobe XD, Canva                |
-| **Data Analysis**       | Excel, Power BI, SQL , Tableau        |
+| **Category**            | **Skills**                                 |
+|-------------------------|------------------------------------------- |
+| **Programming**         | Java, HTML, CSS, JavaScript, React js      |
+| **Design Tools**        | Figma, Adobe XD, Canva                     |
+| **Data Analysis**       | Excel, Power BI, MySQL , Tableau           |
 | **Soft Skills**         | Communication, Problem-solving, Team Collaboration |
 
 
